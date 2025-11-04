@@ -110,7 +110,7 @@ module.exports = {
           <router-link :to="'/' + category_code" custom v-slot="{ navigate }">
             <div class="card text-white card-has-bg click-col" :style="{ backgroundImage: 'url(' + imgUrl(category_code) + ')' }" @click="doActions($event, navigate)">
               <img class="card-img d-none" :src="'img/categories/' + category_code + '.jpg'" :alt="category.title">
-              <div class="card-img-overlay d-flex flex-column" :style="{ background: hasQuestionsToFill(category_code) && percentages[category_code] == 100 ? 'linear-gradient(0deg, rgba(35, 79, 109, 0%) 0%, #649b35 110%)' : 'linear-gradient(0deg, rgba(35, 79, 109, 0%) 0%, #22586a 110%)' }">
+              <div class="card-img-overlay d-flex flex-column" :style="{ background: hasQuestionsToFill(category_code) && percentages[category_code] == 100 ? 'linear-gradient(0deg, rgba(35, 79, 109, 0%) 0%, #649b35 110%)' : 'linear-gradient(0deg, rgba(35, 79, 109, 0%) 0%, #1c5240 110%)' }">
                 <div class="card-body">
                   <p class="card-title mt-0 strong"><strong><a class="text-white" herf="#">{{ category.title }}</a></strong></p>
                 </div>

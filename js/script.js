@@ -46,34 +46,16 @@ const router = new VueRouter({
             props: { category: "soilmanagement" }
         },
         {
-            path: '/agrienvironmentalmanagement',
-            name: 'agrienvironmentalmanagement',
-            component: Vue.options.components.category,
-            props: { category: "agrienvironmentalmanagement" }
-        },
-        {
             path: '/landscapeheritage',
             name: 'landscapeheritage',
             component: Vue.options.components.category,
             props: { category: "landscapeheritage" }
         },
         {
-            path: '/water',
-            name: 'water',
-            component: Vue.options.components.category,
-            props: { category: "water" }
-        },
-        {
             path: '/npkbudget',
             name: 'npkbudget',
             component: Vue.options.components.category,
             props: { category: "npkbudget" }
-        },
-        {
-            path: '/fertiliserman',
-            name: 'fertiliserman',
-            component: Vue.options.components.category,
-            props: { category: "fertiliserman" }
         },
         {
             path: '/energycarbon',
@@ -110,6 +92,12 @@ const router = new VueRouter({
             name: 'animalhealthwelfare',
             component: Vue.options.components.category,
             props: { category: "animalhealthwelfare" }
+        },
+        {
+            path: '/governance',
+            name: 'governance',
+            component: Vue.options.components.category,
+            props: { category: "governance" }
         },
         {
             path: '/scores',

@@ -1,7 +1,7 @@
 
 **PG Tool Online Development**
 
-This document details the history of the Public Goods Tool (PG Tool) and how future development may take place. For information on how to use the current version of Online PG Tools please see the [PG Tool Online v3.1 Manual](https://github.com/organicresearchcentre/pgtool-gui/blob/main/PG%20Tool%20Online%20v3.1%20Manual.md).
+This document details the history of the Public Goods Tool (PG Tool) and how future development may take place. For information on how to use the current version of Online PG Tool please see the [REFOREST PG Tool Online Manual](https://github.com/organicresearchcentre/pgtool-gui/blob/main/PG%20Tool%20Online%20v3.1%20Manual.md).
 ##
 **Creation of the PG Tool**
 
@@ -93,6 +93,8 @@ Report:
 
 **Global Farm Metric** - While initially starting in 2017, the Global Farm Metric (GFM) has built upon the PGTools, adding in additional indicators, weighting for results, and other adaptations to create a general farm sustainability tool for global use. The work of the GFM still continues today.
 
+**REFOREST** - In 2025 the online version of the public goods tool was modified for the European Horizons [REFOREST project](https://agroreforest.eu/). This was originally developed as an excel version based on the Sustain PG Tool by Tom Staton (University of Reading). Organic Research Centre then transferred this to the online version.
+
 Reports:
 - [Global Farm Metric Reports](https://www.globalfarmmetric.org/reports/)
 
@@ -102,8 +104,8 @@ Reports:
 
 The PG Tool is highly adaptable and had been used in a multitude of scenarios to assess a wide range of indicators. The move to an online-version will allow for an altogether more comprehensible experience for farmers and researchers alike.
 The move to github also allows for researchers to easily fork and adapt PG Tool for their own use. The base version of the PG Tool will be kept by ORC to provide a single source for anyone who wishes to complete an assessment themselves.
-To encourage adaptation the PG Tool has been released under an open MIT licence. We would urge those who wish to adapt PG Tool for their own research to contact [github@organicresearchcentre.com](mailto:github@organicresearchcentre.com) with details of their adaptation so we can keep the records up to date. Likewise, we would encourage any published work utilising the base version of the PG Tool to reference it as so:
+To encourage adaptation the PG Tool has been released under an open MIT licence. We would urge those who wish to adapt PG Tool for their own research to contact [christian.g@organicresearchcentre.com](mailto:christian.g@organicresearchcentre.com) with details of their adaptation so we can keep the records up to date. Likewise, we would encourage any published work utilising the base version of the PG Tool to reference it as so:
 
-Organic Research Centre, MVARC (2023). Public Goods Tool Online v3.1. Github. https://github.com/Organicresearchcentre.
+Organic Research Centre, University of Reading (2025). REFOREST Public Goods Tool Online. Github. https://github.com/Organicresearchcentre.
 
-For past versions of the PG Tool, such as those utilised in the projects above, please contact [github@organicresearchcentre.com](mailto:github@organicresearchcentre.com).
+For past versions of the PG Tool, such as those utilised in the projects above, please contact [christian.g@organicresearchcentre.com](mailto:christian.g@organicresearchcentre.com).

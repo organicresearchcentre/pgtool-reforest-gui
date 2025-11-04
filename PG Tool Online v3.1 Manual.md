@@ -1,21 +1,21 @@
-**PG Tool Online v3.1 Manual**
+**REFOREST PG Tool Online Manual**
 
-Welcome to the manual for the Public Goods Tool (PG Tool) Online v3.1. This manual will provide a guide to using the current online version of PG Tools. For information on the development and future use of the PG Tool, please see [PG Tool Online v3.1 Development](https://github.com/organicresearchcentre/pgtool-gui/blob/main/PG%20Tool%20Online%20Development.md)
+Welcome to the manual for the REFOREST Public Goods Tool (PG Tool) Online. This manual will provide a guide to using the current online version of the REFOREST PG Tool. For information on the development and future use of the PG Tool, please see [PG Tool Online Development](https://github.com/organicresearchcentre/pgtool-gui/blob/main/PG%20Tool%20Online%20Development.md)
  ##
 **What is the PG Tool?**
 
-The PG Tool has been developed to capture the production of public goods and overall sustainability of land management practices, with an emphasis on farmland and agriculture. The tool takes various data inputs and scores them in a non-weighted system, producing a single score (1-5) for each indicator. There are a total of 12 indicators (AKA categories) in v3.1, along with an initial data collection category. The final score for each indicator is then visualised in a results category featuring a web-diagram and a more in-depth bar chart for further analysis.
+The PG Tool has been developed to capture the production of public goods and overall sustainability of land management practices, with an emphasis on farmland and agriculture. The tool takes various data inputs and scores them in a non-weighted system, producing a single score (1-5) for each indicator. There are a total of 9 indicators (AKA categories) in the REFOREST PG Tool, along with an initial data collection category. The final score for each indicator is then visualised in a results category featuring a web-diagram and a more in-depth bar chart for further analysis.
  
 While the tool is useful in visualising the current state of public goods and sustainability of managed land, it should be used alongside other resources and expert advice to help develop a wider understanding of farm sustainability. The tool may highlight areas of concern or excellence in a particular indicator, but further research should be done into the true reasons behind these scores in order to ensure any action taken will have the desired impact.
  
 **Who is it meant for?**
 
-The PG Tool Online v3.1 is open for anyone who is interested to use. It is geared towards farmers and land managers, although the tool is adaptable to many situations. For more details about the development and adaptation of the PG Tool to specific scenarios and/or research needs, please see "PG Tool Online v3.1 Development".
+The REFOREST PG Tool Online is open for anyone who is interested to use. It is geared towards farmers and land managers, although the tool is adaptable to many situations. For more details about the development and adaptation of the PG Tool to specific scenarios and/or research needs, please see "PG Tool Online Development".
 ##
 **Starting an Assessment**
 
-The base version of the PG Tool can be found at the [Organic Research Centre website](https://www.organicresearchcentre.com/PG-Tool/).
-On opening the tool you will be met with a tab which contains 14 categories. To begin we will name the assessment by clicking on the pencil icon in the top left. You can edit the name of the assessment at any time.
+The REFOREST version of the PG Tool can be found at the [REFOREST website](https://agroreforest.eu/).
+On opening the tool you will be met with a tab which contains 11 categories. To begin we will name the assessment by clicking on the pencil icon in the top left. You can edit the name of the assessment at any time.
 Once the assessment is named we will click on the first category, "Initial data". This will bring up the first data collection page. Go through each of the fields inputting the relevant data.
 
 **Completing an Assessment**
@@ -38,4 +38,4 @@ On the top left tab, next to where the assessment name is edited, there are furt
 ##
 **Troubleshooting and Support**
 
-If you are having difficulties entering information or using the PG Tools online then please contact your project researcher or send a query to [github@organicresearchcentre.com](mailto:github@organicresearchcentre.com) along with the saved JSON file of your assessment.
+If you are having difficulties entering information or using the REFOREST PG Tool online then please contact your project researcher or send a query to [christian.g@organicresearchcentre.com](mailto:christian.g@organicresearchcentre.com) along with the saved JSON file of your assessment.
