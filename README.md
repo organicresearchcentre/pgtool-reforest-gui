@@ -5,16 +5,15 @@ goods that are being created on their land through data collected under various 
 tool was also built with flexibility and adaptability in mind, with numerous custom versions being
 built over the years to address specific research interests.
 
-This website structure, developed in collaboration with [MVARC](https://mvarc.eu/), is the
-latest iteration based upon the original PG Tool v3.1 Excel-based farm sustainability assessment tool created by [Organic Research Centre](https://www.organicresearchcentre.com). It offers an interface that makes this tool accessible (and its corresponding [API](https://github.com/organicresearchcentre/pgtool-api)) and available for farmers, advisors and researchers to interact and learn with it.
+An online version of the the PG Tool was developed by the [Organic Research Centre](https://www.organicresearchcentre.com) and [MVARC](https://mvarc.eu/), more information here, and forms the base of the REFOREST version. The REFOREST version was developed by [Organic Research Centre](https://www.organicresearchcentre.com) and [University of Reading](https://www.reading.ac.uk/). The tool offers an interface that makes this tool accessible (and its corresponding [API](https://github.com/organicresearchcentre/pgtool-api)) and available for farmers, advisors and researchers to interact and learn with it.
 
-You can access this version of the PG Tool at the ORC website [here](https://www.organicresearchcentre.com/PG-Tool/).
+You can access the REFOREST version of the PG Tool at the [REFOREST website toolbox](https://reforest.euromed-economists.org/).
 
-A user guide for self-assessments has also been created for this version of PG Tool available [here](https://github.com/organicresearchcentre/pgtool-gui/blob/main/PG%20Tool%20Online%20v3.1%20Manual.md).
+A [user guide for self-assessments](https://github.com/organicresearchcentre/pgtool-reforest-gui/blob/main/PG%20Tool%20Online%20v3.1%20Manual.md) has also been created for the REFOREST version of PG Tool.
 
-For developers there is further infromation about the design and future development of the PG Tool available [here](https://github.com/organicresearchcentre/pgtool-gui/blob/main/PG%20Tool%20Online%20Development.md).
+For developers there is [further infromation](https://github.com/organicresearchcentre/pgtool-gui/blob/main/PG%20Tool%20Online%20Development.md) about the design and future development of the PG Tool.
 
-For any queries about the PG Tool please contact github@organicresearchcentre.com.
+For any queries about the PG Tool please contact christian.g@organicresearchcentre.com.
 
 ## How to host the website
 
@@ -27,3 +26,4 @@ The GUI is currently configured to run in the path "/pgtool-gui". If you wish to
 - in the `.htaccess` file: replace all "pgtool-gui" string occurrences with the desired path.
 
 - in the `js/script.js` file: replace `base: '/pgtool-gui'` with the desired path.
+
