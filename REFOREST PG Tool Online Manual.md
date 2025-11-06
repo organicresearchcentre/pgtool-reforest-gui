@@ -14,7 +14,7 @@ The REFOREST PG Tool Online is open for anyone who is interested to use. It is g
 ##
 **Starting an Assessment**
 
-The REFOREST version of the PG Tool can be found at the [REFOREST website](https://agroreforest.eu/).
+The REFOREST version of the PG Tool can be found at the [REFOREST website toolbox](https://reforest.euromed-economists.org/).
 On opening the tool you will be met with a tab which contains 11 categories. To begin we will name the assessment by clicking on the pencil icon in the top left. You can edit the name of the assessment at any time.
 Once the assessment is named we will click on the first category, "Initial data". This will bring up the first data collection page. Go through each of the fields inputting the relevant data.
 
@@ -39,3 +39,4 @@ On the top left tab, next to where the assessment name is edited, there are furt
 **Troubleshooting and Support**
 
 If you are having difficulties entering information or using the REFOREST PG Tool online then please contact your project researcher or send a query to [christian.g@organicresearchcentre.com](mailto:christian.g@organicresearchcentre.com) along with the saved JSON file of your assessment.
+
