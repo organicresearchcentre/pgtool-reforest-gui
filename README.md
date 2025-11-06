@@ -9,7 +9,7 @@ This REFOREST version of the PG Tool was developed by [Organic Research Centre](
 
 You can access the REFOREST version of the PG Tool at the [REFOREST website toolbox](https://reforest.euromed-economists.org/).
 
-A [user guide for self-assessments](https://github.com/organicresearchcentre/pgtool-reforest-gui/blob/main/PG%20Tool%20Online%20v3.1%20Manual.md) has also been created for the REFOREST version of PG Tool.
+A [user guide for self-assessments](https://github.com/organicresearchcentre/pgtool-reforest-gui/blob/main/REFOREST%20PG%20Tool%20Online%20Manual.md) has also been created for the REFOREST version of PG Tool.
 
 For developers there is [further infromation](https://github.com/organicresearchcentre/pgtool-gui/blob/main/PG%20Tool%20Online%20Development.md) about the design and future development of the PG Tool.
 
@@ -26,5 +26,6 @@ The GUI is currently configured to run in the path "/pgtool-gui". If you wish to
 - in the `.htaccess` file: replace all "pgtool-gui" string occurrences with the desired path.
 
 - in the `js/script.js` file: replace `base: '/pgtool-gui'` with the desired path.
+
 
 
