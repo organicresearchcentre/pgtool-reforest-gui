@@ -27,5 +27,12 @@ The GUI is currently configured to run in the path "/pgtool-gui". If you wish to
 
 - in the `js/script.js` file: replace `base: '/pgtool-gui'` with the desired path.
 
+<img src= https://github.com/organicresearchcentre/pgtool-reforest-gui/blob/main/img/eulogo.jpg width="20%">
+This project has recieved funding from the European Union's Horizon Europe research and innovation programme under grant agreement No. 101060635 (REFOREST). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency (REA). Neither the European Union nor the granting authority can be held responsible for them.
+
+<img src= https://github.com/organicresearchcentre/pgtool-reforest-gui/blob/main/img/UKRIlogo.webp width="20%">
+UK partners are funded by UK Research and Innovation (UKRI) under UK government's Horizon Europe funding guarantee [grant number 10039700].
+
+
 
 
